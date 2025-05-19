@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: 9fed2f53ed26b447abdc2ff4cc3e87c9
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 5b1d256282cd1ec6d22717e84bbe8561
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
   m_InternalIdNamingMode: 0
@@ -31,7 +31,7 @@ MonoBehaviour:
     m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider
   m_IgnoreUnsupportedFilesInBuild: 0
   m_UniqueBundleIds: 0
-  m_EnableJsonCatalog: 0
+  m_EnableJsonCatalog: 1
   m_NonRecursiveBuilding: 1
   m_CCDEnabled: 0
   m_maxConcurrentWebRequests: 3
@@ -50,16 +50,16 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: 82261549e0fc3491fb2f0336b4fe981c
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: a01b48f479a154203ad4b002dfb9c59d
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
   m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
   m_GroupAssets:
-  - {fileID: 11400000, guid: 77903e6acbdb14a33bd29e1eb8b47123, type: 2}
+  - {fileID: 11400000, guid: 02c8fde4e8120426899acc854f0df44a, type: 2}
   - {fileID: 11400000, guid: 067d29e17e6c54a11a92f647000b52c9, type: 2}
   - {fileID: 11400000, guid: 2a65a60501476481da7f3fa711183763, type: 2}
   m_BuildSettings:
@@ -80,7 +80,7 @@ MonoBehaviour:
       - m_Id: 82261549e0fc3491fb2f0336b4fe981c
         m_Value: 'ServerData/[BuildTarget]'
       - m_Id: a01b48f479a154203ad4b002dfb9c59d
-        m_Value: <undefined>
+        m_Value: 'https://addressable-test01.s3.ap-southeast-2.amazonaws.com/[BuildTarget]'
     m_ProfileEntryNames:
     - m_Id: 005f7aec692fc4cab8adca70b03e81ec
       m_Name: BuildTarget

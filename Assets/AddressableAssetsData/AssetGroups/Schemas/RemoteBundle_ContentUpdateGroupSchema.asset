@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5834b5087d578d24c926ce20cd31e6d6, type: 3}
-  m_Name: Bundle2_ContentUpdateGroupSchema
+  m_Name: RemoteBundle_ContentUpdateGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: 77903e6acbdb14a33bd29e1eb8b47123, type: 2}
+  m_Group: {fileID: 11400000, guid: 02c8fde4e8120426899acc854f0df44a, type: 2}
   m_StaticContent: 0

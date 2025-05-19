@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Bundle2
+  m_Name: RemoteBundle
   m_EditorClassIdentifier: 
-  m_GroupName: Bundle2
-  m_GUID: 52d9dc3a8d6ca440e9968208595908d9
+  m_GroupName: RemoteBundle
+  m_GUID: 5c529006cd68d4e54950d9835111cc66
   m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 5070363e0a9e64fc49ba6947a089bad7, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 40a00b40ac9bc44349667b998e59c34d, type: 2}
-    - {fileID: 11400000, guid: dc9095effae084138a6b84905f684912, type: 2}
+    - {fileID: 11400000, guid: 363b25771ed854104b59604bb879f859, type: 2}
+    - {fileID: 11400000, guid: 4dfbd8fca1b2e467ca6089077bec4633, type: 2}
